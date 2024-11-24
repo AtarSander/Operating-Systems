@@ -1,0 +1,2 @@
+# Test description
+Testing script turns off default memory manager options and prints out memory usage. To start the test go into `mm` directory (memory management server) in `MINIX`. Then run `test.sh`.
